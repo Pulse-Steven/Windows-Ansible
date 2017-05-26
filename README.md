@@ -1,3 +1,4 @@
+
 # Read Me:
 ### This is still in Beta updates may occur.
 
@@ -7,7 +8,7 @@ Note: Running Ansible from a Windows control machine directly is not a goal of t
 
 Note: The Windows Subsystem for Linux (Beta) is not supported by Microsoft or Ansible and should not be used for production systems.
 
-Applies To: Windows 10 (Anniversary update or later), Windows Server 2008 R2, Windows Server 2012, Must be 64 -bit and up to date will not work on 32-bit
+Applies To: Windows 10 (Anniversary update or later) Must be 64 -bit and up to date will not work on 32-bit
 
 ## How to enable: (Windows 10)
 1. Search for "Windows Update"
@@ -27,6 +28,8 @@ Applies To: Windows 10 (Anniversary update or later), Windows Server 2008 R2, Wi
 5. Control Panel, click “Programs,” and click “Turn Windows Features On or Off” under Programs and Features. Features, Add Features, Enable the “Subsystem for UNIX-based Applications” option in the list here and click “OK.”
 6. Go to http://www.microsoft.com/downloads/en/details.aspx?FamilyID=dc03485b-629b-49a6-b5ef-18617d1a9804&cm_mc_uid=37810520342114958264731&cm_mc_sid_50200000=1495826473 and download the first one 
 7. Follow steps and restart server
+8. Start -> Search for Korn Shell
+
 
 -------------------------------------------------------------------------------------------------
 
