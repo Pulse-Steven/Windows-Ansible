@@ -17,7 +17,7 @@ Applies To: Windows 10 (Anniversary update or later), Windows Server 2008 R2, Wi
 5. Control Panel, click “Programs,” and click “Turn Windows Features On or Off” under Programs and Features. Enable the “Windows Subsystem for Linux (Beta)” option in the list here and click “OK.”
 6. Restart Computer
 7. Open cmd and run "bash" command
-
+8. See "Installing Ansible for the first time"
 
 ## How to enable: (Windows Server 2008 R2)
 1. Search for "Windows Update"
