@@ -1,4 +1,3 @@
-
 # Read Me:
 ### This is still in Beta updates may occur.
 
@@ -30,6 +29,7 @@ Applies To: Windows 10 (Anniversary update or later) Must be 64 -bit and up to d
 7. Follow steps and restart server
 8. Start -> Search for Korn Shell
 
+Ansible on Cygwin is sadly a little too flaky to support (mainly because of our heavy reliance on fork()), though people do make it work.
 
 -------------------------------------------------------------------------------------------------
 
