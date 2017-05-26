@@ -26,7 +26,7 @@ Applies To: Windows 10 (Anniversary update or later), Windows Server 2008 R2, Wi
 4. Check update history make sure it has been updated
 5. Control Panel, click “Programs,” and click “Turn Windows Features On or Off” under Programs and Features. Features, Add Features, Enable the “Subsystem for UNIX-based Applications” option in the list here and click “OK.”
 6. Go to http://www.microsoft.com/downloads/en/details.aspx?FamilyID=dc03485b-629b-49a6-b5ef-18617d1a9804&cm_mc_uid=37810520342114958264731&cm_mc_sid_50200000=1495826473 and download the first one 
-
+7. Follow steps and restart server
 
 -------------------------------------------------------------------------------------------------
 
