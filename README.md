@@ -1,4 +1,4 @@
- # Read Me:
+# Read Me:
 
 A Linux control machine is required to manage Windows hosts. This Linux control machine can be a Windows Subsystem for Linux (WSL) bash shell.
 
@@ -33,7 +33,7 @@ Applies To: Windows 10 (Anniversary update or later), Windows Server 2008 R2, Wi
 
 # Installing Ansible for the first time:
 
-We will be clean install of Ansible and Python. We will be using a bash shell script to save time.
+We will be doing a clean install of Ansible and Python. We will be using a bash shell script to save time.
 
 Steps:
 
