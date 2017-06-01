@@ -20,6 +20,8 @@ Applies To: Windows 10 (Anniversary update or later) Must be 64 -bit and up to d
 8. See "https://github.com/StevenBee/Windows-Ansible#installing-ansible-for-the-first-time"
 
 -------------------------------------------------------------------------------------------------
+## Prepare Node 
+Sudo apt-get install python Ssh-copy-id pulse@ # From Server Requirements for Windows Node http://docs.ansible.com/ansible/intro_windows.html
 
 # Installing Ansible for the first time:
 
