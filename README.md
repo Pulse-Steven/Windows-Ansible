@@ -30,8 +30,11 @@ Steps:
 1. nano install.sh (copy and paste or download file or even type this out) 
 ```
 #!/bin/bash
-#Script to download and install Ansible for self configuration
+# Script to download and install Ansible for self configuration
 ssh-keygen
+sudo pip install "pywinrm>=0.2.2" 
+sudo pip install pywinrm[credssp] 
+sudo pip install boto 
 sudo apt-add-repository ppa:ansible/ansible
 sudo apt-get update
 sudo apt-get install ansible
