@@ -17,7 +17,7 @@ Applies To: Windows 10 (Anniversary update or later) Must be 64 -bit and up to d
 5. Control Panel, click “Programs,” and click “Turn Windows Features On or Off” under Programs and Features. Enable the “Windows Subsystem for Linux (Beta)” option in the list here and click “OK.”
 6. Restart Computer
 7. Open cmd and run "bash" command
-8. See "Installing Ansible for the first time"
+8. See "https://github.com/StevenBee/Windows-Ansible#installing-ansible-for-the-first-time"
 
 -------------------------------------------------------------------------------------------------
 
